@@ -1,8 +1,8 @@
 {
   "include": ["src", "types", "test"],
   "compilerOptions": {
-    "module": "esnext",
-    "lib": ["dom", "esnext"],
+    "module": "es5",
+    "lib": ["dom", "es5"],
     "importHelpers": true,
     "declaration": true,
     "sourceMap": true,
